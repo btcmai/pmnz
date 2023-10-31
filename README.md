@@ -105,4 +105,4 @@ Class | Method | HTTP request | Description
 
 development@getpalace.com
 
-
+Brian Campbell
